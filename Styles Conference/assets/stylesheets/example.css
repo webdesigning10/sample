@@ -1,0 +1,11 @@
+p{width: 300px;
+height:100px;
+ background-color: yellow;
+}
+
+ header{text-align: center;
+ 	font-style: oblique;
+ 	background-color: grey;
+ 	color:yellow;}
+ h3{font-style: normal;}
+ h2,h5{background-color: pink;}
